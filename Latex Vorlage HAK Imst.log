@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.6)  7 MAR 2017 09:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.6)  7 MAR 2017 10:11
 entering extended mode
 **"./Latex Vorlage HAK Imst.tex"
 ("Latex Vorlage HAK Imst.tex"
@@ -1472,13 +1472,13 @@ Package cleveref Info: loaded `ngerman' language definitions on input line 174.
 Package scrbase Info: activating ngerman \lstlistingname on input line 174.
 Package Listings Info: Made | a short reference for \lstinline on input line 17
 5.
- <Logo_Feuerwehr.png, id=246, 201.75375pt x 251.94125pt>
-File: Logo_Feuerwehr.png Graphic file (type png)
+ <Logo_GeoQuest.png, id=246, 476.78125pt x 547.04375pt>
+File: Logo_GeoQuest.png Graphic file (type png)
 
-<use Logo_Feuerwehr.png>
-Package pdftex.def Info: Logo_Feuerwehr.png used on input line 178.
-(pdftex.def)             Requested size: 68.35524pt x 85.35826pt.
- <Logo_HAK_Imst.png, id=247, 162.3666pt x 103.8279pt>
+<use Logo_GeoQuest.png>
+Package pdftex.def Info: Logo_GeoQuest.png used on input line 178.
+(pdftex.def)             Requested size: 74.39503pt x 85.35826pt.
+ <Logo_HAK_Imst.png, id=248, 162.3666pt x 103.8279pt>
 File: Logo_HAK_Imst.png Graphic file (type png)
 
 <use Logo_HAK_Imst.png>
@@ -1541,8 +1541,8 @@ Package babel Info: Redefining ngerman shorthand "~
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Logo_Feuerwehr.png> <./
-Logo_HAK_Imst.png>] (inp_posttitle.tex
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Logo_GeoQuest.png> <./L
+ogo_HAK_Imst.png>] (inp_posttitle.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 17.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2581,7 +2581,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
  26416 strings out of 493333
- 476523 string characters out of 3139192
+ 476518 string characters out of 3139192
  701758 words of memory out of 3000000
  29256 multiletter control sequences out of 15000+200000
  75820 words of font info for 60 fonts, out of 3000000 for 9000
@@ -2600,7 +2600,7 @@ ic/lm/lmro12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtk10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "Latex Vorlage HAK Imst.pdf" (43 pages, 5364926 bytes).
+Output written on "Latex Vorlage HAK Imst.pdf" (43 pages, 5381327 bytes).
 PDF statistics:
  684 PDF objects out of 1000 (max. 8388607)
  187 named destinations out of 1000 (max. 500000)
